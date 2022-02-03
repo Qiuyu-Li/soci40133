@@ -16,3 +16,5 @@ In this project, I plan to collect tweets containing the above keywords with the
 ## Data for Week 3: Politically skewed media
 
 I scrapped 1,000 tweets under the account of "CNN", "BBC", and "Fox News", and played around with the techniques and tools I learned from this week.
+
+And in Exercise 4, I scrapped a new set of data for the dynamic topic modelling, which is CNN's tweets between the 4th day and the 9th day of each month. I set the upper limit of the amont of tweets to be 500 for each month.
